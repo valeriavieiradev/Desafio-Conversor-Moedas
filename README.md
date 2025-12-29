@@ -29,19 +29,11 @@ O projeto foi desenvolvido como parte do curso da Alura (Programa ONE) e tem com
 ───
 ### ⚙️ Como rodar o projeto
 
-1. Clone o repositório:
-2. Abra o projeto no **IntelliJ IDEA** ou outra IDE Java.  
-
-3. Configure a variável de ambiente **EXCHANGE_API_KEY** com sua chave da API:
-
-- No IntelliJ:  
-  - Run → Edit Configurations  
-  - Environment Variables → `EXCHANGE_API_KEY=<sua_chave_aqui>`  
-
-> ⚠️ Não exponha a chave publicamente.  
-
-4. Compile e execute o programa.  
-5. Escolha a opção do menu e digite o valor a converter.  
+1. Clone o repositório
+2. Abra na IDE 
+3. Configure a variável de ambiente EXCHANGE_API_KEY
+4. Compile e execute
+5. Escolha a opção do Menu e digite o valor
 
 ───
 ## 🛠 Tecnologias
@@ -53,7 +45,7 @@ O projeto foi desenvolvido como parte do curso da Alura (Programa ONE) e tem com
 ───
 ## 📌 Observações
 
-- Projeto destinado a fins **educacionais** e de prática de programação.  
+- Projeto destinado para conclusão parcial do curso BackEnd Alura/Oracle  
 - A conversão depende da **disponibilidade da API** e da chave correta.  
 
 ---
