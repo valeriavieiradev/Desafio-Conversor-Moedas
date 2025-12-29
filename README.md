@@ -52,5 +52,5 @@ O projeto foi desenvolvido como parte do curso da Alura (Programa ONE) e tem com
 
 **👩‍💻 Desenvolvido por Valéria Aparecida Rodrigues Vieira**
 
-```bash
-git clone https://github.com/SEU_USUARIO/conversor-moedas.git
+
+
